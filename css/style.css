@@ -43,5 +43,9 @@ p {
     body {
         font-family: 'Courier New', Courier, monospace;
     }
+
+    section {
+        break-after: left;
+    }
 }
 
